@@ -1,0 +1,19 @@
+telegram:
+  bot_token: "یہاں اپنا BotFather token لکھیں"
+  chat_id: "یہاں اپنا Chat ID لکھیں"
+  enabled: true
+
+trading:
+  risk_per_trade_usd: 2.0
+  aggressive_entry_pct: 0.5
+  paper_mode: true          # true = demo, false = real money
+
+pine_script:
+  internal_pivot_length: 5
+  swing_pivot_length: 50
+
+logging:
+  file: "logs/bot.log"
+  level: "INFO"
+  max_bytes: 10485760
+  backup_count: 5
