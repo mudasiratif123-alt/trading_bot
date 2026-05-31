@@ -1,6 +1,6 @@
 telegram:
-  bot_token: "یہاں اپنا BotFather token لکھیں"
-  chat_id: "یہاں اپنا Chat ID لکھیں"
+  bot_token: "8907157041:AAFDe0xy8FoM4CGWkVfdpki7aS2rFE5cMDQ"
+  chat_id: "7288694488"
   enabled: true
 
 trading:
